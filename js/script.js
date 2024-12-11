@@ -4,7 +4,7 @@ var settings = {
       duration: 2,
       velocity: 100,
       effect: -0.75,
-      size: 60,
+      size: 40,
     },
   };
   
